@@ -2,7 +2,7 @@
 
 **Last updated:** 2026-08-06
 
-**Contact:** bob@relmapps.com *(replace with your real contact email before publishing)*
+**Contact:** bob@relmapps.com
 
 ## Overview
 

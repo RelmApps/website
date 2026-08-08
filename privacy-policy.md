@@ -2,7 +2,7 @@
 
 **Last updated:** 2026-08-06
 
-**Contact:** hello@topicstudy.app *(replace with your real contact email before publishing)*
+**Contact:** bob@relmapps.com *(replace with your real contact email before publishing)*
 
 ## Overview
 
@@ -54,4 +54,4 @@ public-domain (CC0) translation. See https://berean.bible for details.
 
 ## Contact
 
-Questions about this policy: **hello@topicstudy.app**
+Questions about this policy: **bob@relmapps.com**

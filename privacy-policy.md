@@ -1,12 +1,12 @@
-# Privacy Policy — Topic Study
+# Privacy Policy — Pathwise
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-09
 
-**Contact:** bob@relmapps.com
+**Contact:** support@relmapps.com
 
 ## Overview
 
-Topic Study (“the App”) is a topical Bible reading app. It is designed to work
+Pathwise (“the App”) is a topical Bible reading app. It is designed to work
 offline, without user accounts.
 
 ## Information we collect
@@ -20,9 +20,11 @@ offline, without user accounts.
 
 ## Local data stored on your device
 
-The App stores a local copy of the Bible text and curated topic content on your
-device so features work offline. This data does not leave your device through
-the App.
+The App stores a local copy of the Bible text and the curated topic list on
+your device so features work offline. This data does not leave your device
+through the App.
+
+The App does not send anything you read to an AI service.
 
 ## Third-party links (“Go Deeper”)
 
@@ -52,6 +54,27 @@ reflected in the App Store / Google Play listing Privacy Policy URL.
 Scripture text in the App is from the Berean Standard Bible (BSB), a
 public-domain (CC0) translation. See https://berean.bible for details.
 
+## What the App shows
+
+Pathwise shows curated Berean Standard Bible passages by topic. Each verse card
+has Bible, Study, and Share actions. Verse cards themselves show scripture and
+actions only — not study notes inline.
+
+Study opens offline third-party notes (Tyndale Open Study Notes and
+Jamieson–Fausset–Brown) shown verbatim on a separate screen. Pathwise does not
+write interpretive blurbs under verses.
+
+Optional “Go Deeper” links open partner sites or apps; those third parties have
+their own privacy practices (see above).
+
+## Study notes
+
+Study notes shown in the App are third-party extracts stored on your device for
+offline use:
+
+- Tyndale Open Study Notes — © Tyndale House Publishers, CC BY-SA 4.0
+- Jamieson–Fausset–Brown Commentary — public domain
+
 ## Contact
 
-Questions about this policy: **bob@relmapps.com**
+Questions about this policy: **support@relmapps.com**

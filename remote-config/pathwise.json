@@ -1,6 +1,8 @@
 {
   "app": {
-    "disabled_topic_ids": []
+    "disabled_topic_ids": [
+      "anxiety-peace"
+    ]
   },
   "app_id": "pathwise",
   "disabled_partners": [],
@@ -9,5 +11,5 @@
     "logos_affiliate_enabled": false
   },
   "schema_version": 1,
-  "updated_at": "2026-08-17T22:11:10.052808Z"
+  "updated_at": "2026-08-17T22:15:07.774389Z"
 }

@@ -1,6 +1,6 @@
 # Privacy Policy — Pathwise
 
-**Last updated:** 2026-08-09
+**Last updated:** 2026-08-23
 
 **Contact:** support@relmapps.com
 
@@ -15,8 +15,26 @@ offline, without user accounts.
 
 - The App does not require registration or login.
 - Searches, topic views, and Bible reading happen on your device.
-- We do not operate a server that receives your usage data.
-- The current version does not include advertising, analytics, or crash-reporting SDKs.
+- Pathwise does not operate a server that receives your usage data or
+  analytics, and does not include analytics or crash-reporting SDKs.
+- When hub banner ads are enabled, Pathwise may show banner ads on the
+  home screen only. Ads are served by Google AdMob, which may process
+  device and advertising identifiers according to
+  [Google’s privacy policy](https://policies.google.com/privacy). Users in
+  some regions will not see ads until a consent flow ships.
+- You can remove ads forever with a one-time in-app purchase processed by
+  Apple or Google. Study and Bible reading stay ad-free.
+
+## Configuration updates
+
+The App may periodically request a public configuration file over HTTPS so
+partner links and topic visibility can be updated without reinstalling. That
+request does not include your reading history, searches, or other personal
+data.
+
+When the App fetches that file, the hosting service may receive standard web
+request metadata (for example IP address and user-agent), as with any HTTPS
+request. We do not use that metadata to identify you or track your reading.
 
 ## Local data stored on your device
 
@@ -60,9 +78,10 @@ Pathwise shows curated Berean Standard Bible passages by topic. Each verse card
 has Bible, Study, and Share actions. Verse cards themselves show scripture and
 actions only — not study notes inline.
 
-Study opens offline third-party notes (Tyndale Open Study Notes and
-Jamieson–Fausset–Brown) shown verbatim on a separate screen. Pathwise does not
-write interpretive blurbs under verses.
+Study opens offline third-party notes (Tyndale Open Study Notes, Biblica
+Study Notes, and Jamieson–Fausset–Brown) shown verbatim on a separate screen,
+along with Tyndale and Biblica book introductions. Pathwise does not write
+interpretive blurbs under verses.
 
 Optional “Go Deeper” links open partner sites or apps; those third parties have
 their own privacy practices (see above).
@@ -73,6 +92,7 @@ Study notes shown in the App are third-party extracts stored on your device for
 offline use:
 
 - Tyndale Open Study Notes — © Tyndale House Publishers, CC BY-SA 4.0
+- Biblica Study Notes — © Biblica Inc., CC BY-SA 4.0
 - Jamieson–Fausset–Brown Commentary — public domain
 
 ## Contact

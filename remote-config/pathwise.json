@@ -5,10 +5,10 @@
   "app_id": "pathwise",
   "disabled_partners": [],
   "flags": {
-    "ads_enabled": true,
+    "ads_enabled": false,
     "go_deeper_enabled": false,
     "logos_affiliate_enabled": false
   },
   "schema_version": 1,
-  "updated_at": "2026-09-04T18:39:13.829461Z"
+  "updated_at": "2026-09-04T19:53:31.272961Z"
 }
